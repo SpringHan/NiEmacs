@@ -1,0 +1,2 @@
+* NiEmacs
+  NiEmacs means ~New-in Emacs~. It's a configuration but not just it.
